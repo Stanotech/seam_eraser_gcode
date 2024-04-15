@@ -3,3 +3,6 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.G-code linguist-detectable=false
+*.Gcode linguist-detectable=false
+*.g-code linguist-detectable=false
+*.gcode linguist-detectable=false
